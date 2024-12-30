@@ -1,10 +1,10 @@
 更新时间,#genre#
-2024-12-30 06:06:15,url
+2024-12-30 18:19:31,url
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://mom.cloudns.be:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
-CCTV-1,http://113.57.93.165:9900/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+CCTV-1,http://221.233.192.152:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://114.252.238.87:8000/rtp/239.3.1.129:8008$组播源
 CCTV-1,http://60.2.190.206:4000/rtp/239.253.92.83:8012$组播源
 CCTV-1,http://221.219.79.161:4000/rtp/239.3.1.129:8008$组播源
@@ -34,7 +34,7 @@ CCTV-3,http://221.219.79.161:4000/rtp/239.3.1.172:8001$组播源
 CCTV-4,http://220.249.114.102:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-4,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-4,http://mom.cloudns.be:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
-CCTV-4,http://113.57.93.165:9900/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+CCTV-4,http://221.233.192.152:1111/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-4,http://222.129.139.91:8888/rtp/239.3.1.213:4220$组播源
 CCTV-4,http://114.252.238.87:8000/rtp/239.3.1.214:4220$组播源
 CCTV-4,http://60.2.190.206:4000/rtp/239.253.93.193:6371$组播源
@@ -161,17 +161,18 @@ CCTV-15,http://123.113.187.204:8000/rtp/239.3.1.153:8136$组播源
 CCTV-15,http://222.129.139.229:8888/rtp/239.3.1.153:8136$组播源
 CCTV-15,http://114.252.238.87:8000/rtp/239.3.1.153:8136$组播源
 CCTV-15,http://111.196.129.152:20000/rtp/239.3.1.153:8136$组播源
+CCTV-16,http://59.173.243.210:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-16,http://222.129.139.91:8888/rtp/239.3.1.184:8001$组播源
 CCTV-16,http://111.196.129.152:20000/rtp/239.3.1.183:8001$组播源
-CCTV-16,http://222.129.139.229:8888/rtp/239.3.1.183:8001$组播源
 CCTV-16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$订阅源-IPv6
 CCTV-16,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000715$订阅源-IPv6
 CCTV-16,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000016$订阅源-IPv6
+CCTV-16,http://222.129.139.229:8888/rtp/239.3.1.183:8001$组播源
 CCTV-16,http://111.196.129.152:20000/udp/239.3.1.184:8001$订阅源
 CCTV-16,http://222.129.139.229:8888/udp/239.3.1.184:8001$订阅源
 CCTV-16,http://123.113.187.204:8000/udp/239.3.1.183:8001$订阅源
-CCTV-17,http://113.57.111.4:1111/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-17,http://113.57.20.158:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+CCTV-17,http://59.173.243.210:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-17,http://221.219.79.161:4000/rtp/239.3.1.151:8144$组播源
 CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/$订阅源-IPv6
 CCTV-17,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228407/index.m3u8$订阅源-IPv6
@@ -192,8 +193,6 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 
 💰央视付费频道,#genre#
 央视台球,http://36.129.204.117:9003//hls/71/index.m3u8$订阅源
-第一剧场,http://113.57.111.4:1111/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-风云足球,http://113.57.111.4:1111/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 风云足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1061&tk=7d4ad8f156e3$订阅源
 风云足球,http://113.236.31.149:9901/tsfile/live/1122_1.m3u8$订阅源
 风云足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1864&tk=97475bb89d45$订阅源
@@ -205,16 +204,13 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 广东卫视,http://220.249.114.102:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
-广东卫视,http://113.57.93.165:9900/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+广东卫视,http://221.233.192.152:1111/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 广东卫视,http://222.129.139.91:8888/rtp/239.3.1.142:8048$组播源
 广东卫视,http://114.252.238.87:8000/rtp/239.3.1.142:8048$组播源
 广东卫视,http://222.129.139.229:8888/rtp/239.3.1.142:8048$组播源
 广东卫视,http://111.196.129.152:20000/rtp/239.3.1.142:8048$组播源
 广东卫视,http://221.219.79.161:4000/rtp/239.3.1.142:8048$组播源
 广东卫视,http://60.2.190.206:4000/rtp/239.253.92.206:8108$组播源
-香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv$订阅源
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$订阅源
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639$订阅源
 浙江卫视,http://220.249.114.102:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 浙江卫视,http://61.136.172.236:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 浙江卫视,http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -298,7 +294,7 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 东南卫视,http://220.249.114.102:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 东南卫视,http://116.128.242.83:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
-东南卫视,http://113.57.93.165:9900/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+东南卫视,http://221.233.192.152:1111/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 东南卫视,http://60.2.190.206:4000/rtp/239.253.92.201:6146$组播源
 东南卫视,http://111.196.129.152:20000/rtp/239.3.1.156:8148$组播源
 东南卫视,http://221.219.79.161:4000/rtp/239.3.1.156:8148$组播源
@@ -318,7 +314,7 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 广西卫视,http://220.249.114.102:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 广西卫视,http://mom.cloudns.be:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
-广西卫视,http://113.57.93.165:9900/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+广西卫视,http://221.233.192.152:1111/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 广西卫视,http://114.252.238.87:8000/rtp/239.3.1.39:8300$组播源
 广西卫视,http://123.113.187.204:8000/rtp/239.3.1.39:8300$组播源
 广西卫视,http://111.196.129.152:20000/rtp/239.3.1.39:8300$组播源
@@ -336,15 +332,15 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 贵州卫视,http://222.129.139.229:8888/rtp/239.3.1.149:8076$组播源
 贵州卫视,http://60.2.190.206:4000/rtp/239.253.92.105:6055$组播源
 海南卫视,http://220.249.114.102:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-海南卫视,http://113.57.111.4:1111/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-海南卫视,http://60.2.190.206:4000/rtp/239.253.93.155:6323$组播源
+海南卫视,http://113.57.109.129:9001/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+海南卫视,http://59.173.243.210:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 海南卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006211/1.m3u8$订阅源-IPv6
 海南卫视,http://[2409:8087:1a0a:df::4035]:80/wh7f454c46tw2956885686_2095434499/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$订阅源-IPv6
 海南卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000103$订阅源-IPv6
+海南卫视,http://60.2.190.206:4000/rtp/239.253.93.155:6323$组播源
 海南卫视,http://111.196.129.152:20000/rtp/239.3.1.45:8304$组播源
 海南卫视,http://123.113.187.204:8000/rtp/239.3.1.45:8304$组播源
 海南卫视,http://222.129.139.229:8888/udp/239.3.1.45:8304$订阅源
-海南卫视,http://123.166.61.70:8003/hls/63/index.m3u8$订阅源
 河北卫视,http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 河北卫视,http://220.249.114.102:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 河北卫视,http://116.128.242.83:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -358,7 +354,7 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 河南卫视,http://220.249.114.102:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 河南卫视,http://mom.cloudns.be:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
-河南卫视,http://113.57.93.165:9900/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+河南卫视,http://113.57.20.158:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 河南卫视,http://123.113.187.204:8000/rtp/239.3.1.27:8128$组播源
 河南卫视,http://222.129.139.229:8888/rtp/239.3.1.27:8128$组播源
 河南卫视,http://111.196.129.152:20000/rtp/239.3.1.27:8128$组播源
@@ -368,7 +364,7 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 吉林卫视,http://220.249.114.102:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 吉林卫视,http://mom.cloudns.be:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
-吉林卫视,http://113.57.93.165:9900/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+吉林卫视,http://113.57.20.158:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 吉林卫视,http://222.129.139.229:8888/rtp/239.3.1.240:8172$组播源
 吉林卫视,http://221.219.79.161:4000/rtp/239.3.1.240:8172$组播源
 吉林卫视,http://114.252.238.87:8000/rtp/239.3.1.240:8172$组播源
@@ -416,15 +412,15 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 内蒙古卫视,http://61.138.128.226:19901/tsfile/live/0109_1.m3u8$订阅源
 内蒙古卫视,http://222.129.139.91:8888/udp/239.3.1.43:8176$订阅源
 宁夏卫视,http://220.249.114.102:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-宁夏卫视,http://113.57.93.165:9900/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 宁夏卫视,http://113.57.20.158:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+宁夏卫视,http://114.252.238.87:8000/rtp/239.3.1.46:8124$组播源
 宁夏卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225632/2.m3u8$订阅源-IPv6
 宁夏卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040022/1.m3u8$订阅源-IPv6
 宁夏卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000031451/index.m3u8?channel-id=bestzb&Contentid=1000000002000031451&livemode=1&stbId=3$订阅源-IPv6
-宁夏卫视,http://114.252.238.87:8000/rtp/239.3.1.46:8124$组播源
 宁夏卫视,http://222.129.139.229:8888/rtp/239.3.1.46:8124$组播源
 宁夏卫视,http://123.113.187.204:8000/rtp/239.3.1.46:8124$组播源
 宁夏卫视,http://123.113.249.203:8888/udp/239.3.1.46:8124$订阅源
+宁夏卫视,http://222.129.139.91:8888/udp/239.3.1.46:8124$订阅源
 青海卫视,http://220.249.114.102:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 青海卫视,http://mom.cloudns.be:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
 青海卫视,http://113.57.20.158:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -492,9 +488,9 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 三沙卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8$订阅源-IPv6
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS$订阅源-IPv6
 三沙卫视,http://123.113.187.204:8000/rtp/239.3.1.155:4120$组播源
-三沙卫视,http://117.27.190.42:9998/tsfile/live/23250_1.m3u8$订阅源
 三沙卫视,http://123.113.187.204:8000/udp/239.3.1.155:4120$订阅源
-三沙卫视,http://117.27.190.42:9998/tsfile/live/23250_1.m3u8?key=txiptv$订阅源
+三沙卫视,http://222.129.139.229:8888/udp/239.3.1.155:4120$订阅源
+三沙卫视,http://123.113.249.203:8888/udp/239.3.1.155:4120$订阅源
 天津卫视,http://220.249.114.102:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 天津卫视,http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 天津卫视,http://116.128.242.83:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -539,7 +535,7 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 卡酷动画,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000040/index.m3u8$订阅源-IPv6
 动漫秀场,http://60.2.190.206:4000/udp/239.253.93.225:6403$订阅源
 动漫秀场,http://36.129.204.117:9003//hls/67/index.m3u8$订阅源
-动漫秀场,http://nas.hssvm.com:8888/udp/225.1.1.134:5002$订阅源
+动漫秀场,http://223.166.234.91:7777/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8$订阅源-IPv6
 动漫秀场,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002000/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 动漫秀场,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002000/index.m3u8?IASHttpSessionId=$订阅源-IPv6
@@ -554,27 +550,26 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 优漫卡通,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4218&tk=2aca1ad9a849$订阅源
 优漫卡通,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6635&tk=e503191f8e20$订阅源
-优漫卡通,http://221.213.69.82:9901/tsfile/live/1003_1.m3u8$订阅源
+优漫卡通,http://113.236.31.149:9901/tsfile/live/1090_1.m3u8$订阅源
 优漫卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225656/2.m3u8$订阅源-IPv6
 优漫卡通,http://[2409:8087:74d9:21::6]:80/270000001128/9900000070/index.m3u8$订阅源-IPv6
 优漫卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010118/1.m3u8$订阅源-IPv6
 金鹰卡通,http://220.249.114.102:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 金鹰卡通,http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 金鹰卡通,http://mom.cloudns.be:9901/tsfile/live/38727_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
-金鹰卡通,http://113.57.93.165:9900/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+金鹰卡通,http://113.57.20.158:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 金鹰卡通,http://61.157.139.15:9901/tsfile/live/2419_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 金鹰卡通,http://218.89.240.144:59901/tsfile/live/1002_1.m3u8$订阅源
 金鹰卡通,http://220.249.114.102:9901/tsfile/live/1016_1.m3u8$订阅源
-金鹰卡通,http://121.33.239.242:9901/tsfile/live/38727_1.m3u8$订阅源
 金鹰卡通,http://61.157.139.15:9901/tsfile/live/2419_1.m3u8$订阅源
+金鹰卡通,http://111.160.17.2:59901/tsfile/live/0001_33.m3u8$订阅源
 黑莓动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7068&tk=2aca1ad9a849$订阅源
 黑莓动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2912&tk=e503191f8e20$订阅源
 黑莓动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1576&tk=7d4ad8f156e3$订阅源
 黑莓动画,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8$订阅源-IPv6
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225662/2.m3u8$订阅源-IPv6
 黑莓动画,http://[2409:8087:74d9:21::6]/270000001128/9900000096/index.m3u8$订阅源-IPv6
-炫动卡通,http://nas.hssvm.com:8888/udp/225.1.1.62:5002$订阅源
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1526&tk=2aca1ad9a849$订阅源
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7099&tk=2aca1ad9a849$订阅源
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2710&tk=e503191f8e20$订阅源
@@ -583,10 +578,10 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 海绵宝宝,http://cdn.jdshipin.com:8880/huya.php?id=11352919$订阅源
 海绵宝宝,http://jiaojirentv.top/2020/dy.php?id=7528160$订阅源
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源
-斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$订阅源
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879$订阅源
 猫和老鼠,http://huanqiuzhibo.cn/manifest/huya.php?id=11352879$订阅源
 蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970$订阅源
+漫画解说,http://live.nctv.top/6688/yy.php?id=1382735568$订阅源
 
 🎵音乐频道,#genre#
 CCTV-15,http://220.249.114.102:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -604,16 +599,7 @@ CCTV-15,http://111.196.129.152:20000/rtp/239.3.1.153:8136$组播源
 🏛经典剧场,#genre#
 笑傲江湖,http://huanqiuzhibo.cn/manifest/huya.php?id=23865142$订阅源
 天龙八部,http://huanqiuzhibo.cn/manifest/huya.php?id=23903123$订阅源
-天龙八部,https://live.metshop.top/yy/1351814644$订阅源
 鹿鼎记,http://huanqiuzhibo.cn/manifest/huya.php?id=23865080$订阅源
-鹿鼎记,https://live.metshop.top/yy/28265277$订阅源
 仙剑奇侠传,http://jiaojirentv.top/2020/yy.php?id=1382749903$订阅源
-三国演义,http://lunbo.freetv.top/yy/1354930932$订阅源
-三国演义,https://live.metshop.top/yy/1354936241$订阅源
-三国演义,https://live.metshop.top/huya/11602081$订阅源
-新白娘子传奇,https://live.metshop.top/yy/1354490667$订阅源
 封神榜,http://huanqiuzhibo.cn/manifest/huya.php?id=23749096$订阅源
-封神榜,https://live.metshop.top/yy/1353426319$订阅源
-上海滩,https://live.metshop.top/yy/1382745184$订阅源
 射雕英雄传,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164$订阅源
-射雕英雄传,https://live.metshop.top/yy/40959929$订阅源
